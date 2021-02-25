@@ -2,3 +2,7 @@ SELECT NAME
 FROM ANIMAL_INS
 ORDER BY DATETIME
 LIMIT 1 // 리미트 사용
+
+select * from 테이블명 order by 기준컬럼 desc limit 3( 0번째부터 3개 내림차순 출력)
+
+select * from 테이블명 order by 기준컬럼 asc limit 3, 3(4번째부터 3개 오름차순 출력)
