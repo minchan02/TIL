@@ -32,3 +32,4 @@ int main(void) {
 }
 
 // Person형 포인터 변수는 Person객체를 상속하는 객체에 접근 가능하다.
+// Is-A 관계가 성립하면 상속 관계
