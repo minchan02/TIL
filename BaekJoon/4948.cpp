@@ -1,5 +1,4 @@
 #include <iostream>
-#include <vector>
 #include<cmath>
 
 using namespace std;
@@ -60,8 +59,6 @@ int main(void) {
 		}
 
 		findPrimeAmount(n);
-
-		// 함수
 	}
 
 	return 0;
